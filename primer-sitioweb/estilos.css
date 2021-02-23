@@ -91,3 +91,8 @@ img{
     margin: 20px auto;
 
 }
+
+#bg_calendar{
+	background-color:#2D3436;
+	color:white;
+}
