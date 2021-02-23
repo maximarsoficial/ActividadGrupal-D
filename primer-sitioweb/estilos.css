@@ -6,12 +6,10 @@ h1 {
     font-size: 20px;
     font-family: sans-serif;
     font-weight: bold;
-    line-height: 150%;
 }
 
 h2{
     font: bold 14px sans-serif;
-    line-height: 150%;
 }
 
 header, section, footer, aside, nav, article, hgroup{
@@ -65,7 +63,6 @@ article{
 }
 time{
     color: #999999;
-    line-height: 150%;
 }
 article footer{
     text-align: right;
